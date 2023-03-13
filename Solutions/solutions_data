@@ -1,0 +1,77 @@
+###########################
+Delta: 1, 0.99, 0.98
+Offline:
+flow = 7192.0
+utility = 7137.223320453062
+
+Online:
+flow = 6881.0
+utility = 6463.091933411123
+
+Online(1/del):
+flow = 7139.0
+utilty = 6816.408208607458
+Total time taken:  387.86579164798604
+
+
+###########################
+Delta: 1, 0.98, 0.97
+
+Offline:
+flow = 7192.0
+utilty = 7091.233607830568
+Total time taken:  836.4687542940082
+
+Online:
+flow = 7023.0
+utilty = 6502.056817135978
+Total time taken:   362.5947563399968
+
+Online del:
+flow = 7144.0
+utilty = 6594.076019978699
+Total time taken: 350.9901795950136
+
+
+###########################
+Delta: 0.99, 0.98, 0.96
+
+Offline:
+flow = 7192.0
+utilty = 7082.610159781182
+Total time taken:  853.604794252984
+
+Online:
+flow = 6999.0
+utilty = 6470.560576235492
+Total time taken:   313.965804381005
+
+Online del:
+flow = 7142.0
+utilty = 5774.833026458958
+Total time taken: 340.3619355080009
+
+
+##########################
+Delta: 1, 0.97, .95
+
+Offline:
+flow = 
+utilty = 
+Total time taken:  
+
+Online:
+flow = 7041.0
+utilty = 6331.3326153050175
+Total time taken: 361.71373264101567
+
+Online del:
+flow = 7128.0
+utilty = 6362.527488589596
+Total time taken: 350.40528472099686
+
+Online 1/del fed to online:
+
+flow = 7128.0
+utilty = 8316.226683180263
+Total time taken: 339.52398447098676
